@@ -10,7 +10,7 @@ plugins {
 }
 
 group = "com.test"
-version = "0.0.1-SNAPSHOT"
+version = "1.0.0"
 java.sourceCompatibility = JavaVersion.VERSION_11
 extra["mapStructVersion"] = "1.4.2.Final"
 
