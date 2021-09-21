@@ -13,4 +13,4 @@ and hexagonal architecture.
 Running gradle task `bootBuildImage` will generate the docker image `btest:1.0.0`.
 When the task is finished run command `docker run --rm -it -p 8080:8080 btest:1.0.0`.
 
-Is included the postman collection in this [link](https://www.getpostman.com/collections/f943e402d614ec06409f).
+The postman collection is included in this [link](https://www.getpostman.com/collections/f943e402d614ec06409f).
